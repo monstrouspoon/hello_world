@@ -1,7 +1,1 @@
-# hello_world
-
-So I'm here...
-
-It's like being at work but with code rather than words.
-
-I like it.
+Suppose I'd better start doing something useful with myself for once.
